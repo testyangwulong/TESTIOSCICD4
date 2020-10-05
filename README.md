@@ -1,2 +1,3 @@
 # TESTIOSCICD4
-[![Build status](https://build.appcenter.ms/v0.1/apps/19770835-d95a-4fb0-b997-d332711e33f9/branches/dev/badge)](https://appcenter.ms)
+dev: [![Build status](https://build.appcenter.ms/v0.1/apps/19770835-d95a-4fb0-b997-d332711e33f9/branches/dev/badge)](https://appcenter.ms)
+test: [![Build status](https://build.appcenter.ms/v0.1/apps/19770835-d95a-4fb0-b997-d332711e33f9/branches/test/badge)](https://appcenter.ms)
