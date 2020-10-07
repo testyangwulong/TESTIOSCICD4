@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.1.2 (swiftlang-1100.0.278 clang-1100.0.33.9)"
+options: "578d2a19f3e729242b08d1b130e54a54"
+build_time: [1602053923, 61318000]
+inputs:
+  "/Users/yangwulong/Desktop/Development/learning/CICD/TESTIOSCICD4/CICDiOS/RetirementCalculator/ViewController.swift": [1601868680, 253553111]
+  "/Users/yangwulong/Desktop/Development/learning/CICD/TESTIOSCICD4/CICDiOS/RetirementCalculator/AppDelegate.swift": [1602052418, 956094267]

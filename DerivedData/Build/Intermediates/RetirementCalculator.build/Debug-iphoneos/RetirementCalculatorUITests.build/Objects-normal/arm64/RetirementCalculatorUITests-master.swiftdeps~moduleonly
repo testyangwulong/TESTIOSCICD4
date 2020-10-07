@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.1.2 (swiftlang-1100.0.278 clang-1100.0.33.9)"
+options: "a75dc1f231858fd6db8b0bec87e7b7de"
+build_time: [1602053934, 583231000]
+inputs:
+  "/Users/yangwulong/Desktop/Development/learning/CICD/TESTIOSCICD4/CICDiOS/RetirementCalculatorUITests/RetirementCalculatorUITests.swift": [1601948426, 722737153]
