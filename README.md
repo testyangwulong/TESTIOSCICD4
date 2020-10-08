@@ -14,6 +14,6 @@ test: [![Build status](https://build.appcenter.ms/v0.1/apps/19770835-d95a-4fb0-b
 6
 9
 
-
+feature-4
 master: [![Build status](https://build.appcenter.ms/v0.1/apps/19770835-d95a-4fb0-b997-d332711e33f9/branches/master/badge)](https://appcenter.ms)
 
